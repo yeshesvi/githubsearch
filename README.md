@@ -3,7 +3,7 @@
 An auto updating simple and lightweight angular app. Defaults to my profile and autoupdates to the closest match when searching for a username. 
 
 
-This project was created with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.9. and [Bootstrap](http://getbootstrap.com/) version 4.0.0-beta2.
+This project was created with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.9. and [Bulma](http://bulma.io/) version 0.6.1.
 
 
 ## Further help
